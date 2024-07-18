@@ -3320,7 +3320,7 @@ GenF1.menu.upload_method.swdMethod.upload.tool=stm32CubeProg
 
 GenF1.menu.upload_method.jlinkMethod=STM32CubeProgrammer (J-Link)
 GenF1.menu.upload_method.jlinkMethod.upload.protocol=jlink
-GenF1.menu.upload_method.jlinkMethod.upload.options=-c port=JLINK ap=0
+GenF1.menu.upload_method.jlinkMethod.upload.options=
 GenF1.menu.upload_method.jlinkMethod.upload.tool=stm32CubeProg
 
 GenF1.menu.upload_method.serialMethod=STM32CubeProgrammer (Serial)
